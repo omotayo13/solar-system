@@ -1,0 +1,60 @@
+.bgg{
+    width: 1270px;
+    height:600px;
+    position: relative;
+}
+.ggg{
+    
+}
+.mars{
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    margin-top: 160px;
+}
+.m{
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+.ma{
+    position: absolute;
+    bottom: 20px;
+    right: 160px;
+}
+.mar{
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+}
+.mas{
+    position: absolute;
+    top: 90px;
+    right: 10px;
+    margin: 70px;
+}
+.as{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    margin: 400px;
+}
+.sa{
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+    margin: 100px;
+    width: 700px;
+}
+.ms{
+    position: absolute;
+    bottom: 20px;
+    left: 50px;
+    margin: 300px;
+}
+.sm{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    margin: 100px;
+}
